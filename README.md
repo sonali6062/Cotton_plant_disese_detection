@@ -25,8 +25,8 @@ This project highlights how deep learning can be applied in the agriculture doma
 ---
 
 ## 📂 Project Structure
+```markdown
 
-```
 
 Cotton\_Plant\_Disease\_Detection/
 ├── data/                  # Raw and preprocessed image datasets
@@ -38,8 +38,8 @@ Cotton\_Plant\_Disease\_Detection/
 └── README.md              # Project documentation
 
 ````
+```markdown
 
----
 
 ## 📥 Dataset
 
